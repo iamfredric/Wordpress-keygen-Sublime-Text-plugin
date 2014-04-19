@@ -1,6 +1,6 @@
-Wordpress keygen Sublime Text 2 plugin
+Wordpress keygen Sublime Text plugin
 ============================
-Generate wordpress keys and salts from Sublime text.
+Generate wordpress keys and salts from Sublime text 2 and 3.
 
 How to use
 ----------
