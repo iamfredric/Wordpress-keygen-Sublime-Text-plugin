@@ -1,6 +1,6 @@
 Wordpress keygen Sublime Text plugin
 ============================
-Generate wordpress keys and salts from Sublime text 2 and 3.
+Generate wordpress keys and salts for Sublime text 2 and 3.
 
 How to use
 ----------
@@ -13,4 +13,4 @@ Mac, Linux and Windows: ctrl+alt+k
 
 Installation
 ------------
-At the moment only by download at github
+At the moment only by download at github, simply drop the package in your sublime text package folder
