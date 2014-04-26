@@ -13,4 +13,4 @@ Mac, Linux and Windows: ctrl+alt+k
 
 Installation
 ------------
-At the moment only by download at github, simply drop the package in your sublime text package folder
+Install through package controll or drop the repository in your sublime text package folder.
